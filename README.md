@@ -1,4 +1,4 @@
-#Outline for Wednesday 9/16
+#Outline for Wednesday 9/16 - Hanni
 - Recap yesterday, go over homework
 - Introduce Arrays
 - In Class Array Exercise (pairs)
